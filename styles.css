@@ -1,0 +1,82 @@
+
+.file_header {
+    display: flex; 
+    align-items: center;
+    padding: 20px;
+    background-color: #07750f;
+    border-radius: 8px;
+    width: 70%;
+}
+.header_photo_me {
+    width: 200px; 
+    height: 200px; 
+    border-radius: 50%; 
+    margin-right: 50px; 
+}
+#header_name {
+    color: white;
+    font-size: 32px;
+    font-weight: bold;
+    margin: 0;
+    text-transform: uppercase;
+    font-family: "Montserrat", sans-serif;
+}
+.info p {
+    font-size: 20px;
+    font-weight: 400;
+    font-family: "Montserrat", sans-serif;
+
+}
+.info h2 {
+    font-family: "Montserrat", sans-serif;
+
+}
+.skills{
+    font-family: "Montserrat", sans-serif;
+
+}
+.skills ul {
+    font-size: 20px;
+    font-weight: 400;
+}
+.work{
+    font-family: "Montserrat", sans-serif;
+
+}
+.work ul {
+    font-size: 20px;
+    font-weight: 400;
+}
+.study{
+    font-family: "Montserrat", sans-serif;
+}
+.study ul {
+    font-size: 20px;
+    font-weight: 400;
+}
+a {
+    font-size: 20px;
+    font-weight: 400;
+    color: white;
+}
+.contacts {
+    font-size: 30px;
+    font-family: "Montserrat", sans-serif;
+}
+.contacts ul {
+    font-size: 20px;
+    font-weight: 400;
+}
+footer {
+    background-color: #07750f;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    position: relative;
+    bottom: 0;
+    width: 70%;
+}
+h1 {
+    font-family: "Montserrat", sans-serif;
+
+}
